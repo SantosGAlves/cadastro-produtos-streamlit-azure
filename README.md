@@ -4,7 +4,7 @@ Este projeto é um sistema simples de cadastro de produtos com upload de imagens
 
 ## 🖼️ Interface
 
-![Tela de Cadastro](imagens/IMAGEM.JPG)
+![Tela de Cadastro](imagem/IMAGEM.JPG)
 
 ---
 
